@@ -2,7 +2,7 @@
 name: todo-momentum
 version: "0.2.0"
 description: "3 分钟启动器：把拖延待办、卡住任务、模糊目标、项目/家务/习惯拆成下一步物理动作、3 分钟启动、5 分钟扩展、今日算赢标准和断了以后的回归脚本。适合反拖延、每日执行、任务拆解、低能量启动和轻量 check-in。"
-tags: ["todo", "拖延", "反拖延", "3分钟启动", "next-action", "productivity", "execution", "habits", "daily-planning"]
+tags: ["todo", "anti-procrastination", "three-minute-start", "next-action", "productivity", "execution", "habits", "daily-planning"]
 ---
 
 # Todo Momentum - 3 分钟启动器
